@@ -1,0 +1,11 @@
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.deps.json
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.dll
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.pdb
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.AssemblyInfoInputs.cache
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.AssemblyInfo.cs
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.dll
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\refint\ETicaretAPI.Domain.dll
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.pdb
+D:\GencayYildiz\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ref\ETicaretAPI.Domain.dll
